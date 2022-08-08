@@ -1,5 +1,7 @@
 # Weather App
-Weather app that I created to check the weather whenever I want to know today's weather! :)
+Weather app that I created to check the weather whenever I want to know today's weather! :)<br>
+Check enter the city where you are currently at then the app will search up the weather for your city.<br>
+I used api from openweathermap.org
 
 <a href="https://www.imdavidpham.com/weatherapp/">Live demo</a><br>
 Screenshot<br>
